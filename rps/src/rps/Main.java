@@ -109,6 +109,7 @@ public class Main {
 			}
 			else if(user.contains("n")) {
 				playAgain = false;
+				System.out.println("Exiting... ");
 				System.exit(0);
 			}
 			
